@@ -1,0 +1,3 @@
+dist/*
+build/*
+element-variables.scss
